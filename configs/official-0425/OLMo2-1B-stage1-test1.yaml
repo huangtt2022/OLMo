@@ -72,7 +72,7 @@ tokenizer:
   truncate_direction: right
 
 save_folder: http://olmo-data.org/checkpoints/OLMo-small/${run_name}
-save_overwrite: false
+save_overwrite: true
 
 save_interval: 1000
 save_interval_ephemeral: 1000
